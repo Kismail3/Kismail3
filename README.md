@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Kamillah!
 
-**🎓 Junior at George Mason University, studying Computer Science**
+**🎓 Rising senior at George Mason University, studying Computer Science**
 
 **🔭 Aspiring Data Scientist**
 
